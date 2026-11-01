@@ -1,13 +1,2 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32 C3,1,Sharvi,$6.70,$6.70,https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/
-0.96 OLED,1,Sharvi,$2.20,$2.20,https://sharvielectronics.com/product/0-96-inch-i2c-4pin-oled-display-module-white/
-3.7V Lipo Rechargeable,1,Sharvi,$2.28,$2.28,https://sharvielectronics.com/product/3-7v-1100mah-lipo-rechargeable-battery-with-jst-ph-2mm-connector/
-4.7K Ohm Resitstors,2,Sharvi,$0.085,$0.17,https://sharvielectronics.com/product/4-7k-ohm-1-8-watt-resistor-1-tolerance-cr-05ftp-4k7-0805-package/
-100nF 50V Capacitor,1,Sharvi,$0.021,$0.021,https://sharvielectronics.com/product/0-1uf-100nf-50v-capacitor-%c2%b110-tolerance-cc0805kkx7r9bb104-0805-package/
-10uF/10000nF 25V Capacitor,1,Sharvi,$0.029,$0.029,https://sharvielectronics.com/product/10uf-10000nf-25v-capacitor-%c2%b110-tolerance-cc0805kkx7r8bb106-0805-package/
-Push Button,3,Sharvi,$0.093,$0.279,https://sharvielectronics.com/product/6x6x6mm-4-pin-smd-push-button-switch-black-smd-package/
-Slide Switch,1,Sharvi,$0.63,$0.63,https://sharvielectronics.com/product/mini-slide-switch-7pin-smd-2-positions-h1-5mm-1p2t-spdt/
-4Pin Female Berg Strip,1,Sharvi,$0.66,$0.66,https://sharvielectronics.com/product/4x1-4pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/
-2Pin SMD Horizontal Connector,1,Sharvi,$0.41,$0.41,https://sharvielectronics.com/product/ph-02awt-2pin-smd-horizontal-connector-with-side-entry-header-2mm-pitch/
-PCB,1,Seeed Studio,$9.90,$9.90,https://www.seeedstudio.com/fusion_pcb.html
-Estimated total shipping,,,,$7.41,
+Estimated total shipping,1,,,$0.00,
